@@ -1,9 +1,11 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State var myname:String = ""
     var body: some View {
         VStack {
-           Text("Nicholas")
+            TextField("hello", text: $myname)
+           Text("\(myname)")
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)

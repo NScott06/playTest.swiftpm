@@ -9,7 +9,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("James")
             Text("Hello")
-        Text("James is an idiot")
+        Text("James is not an idiot")
             
         }
     }

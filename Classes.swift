@@ -105,7 +105,7 @@ func Card12 (Flipped12:Bool) {
     }
 }
 func Card13 (Flipped13:Bool) {
-    if Flipped == true {
+    if Flipped13 == true {
         
     }
     else{

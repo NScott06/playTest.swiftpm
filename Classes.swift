@@ -7,21 +7,21 @@ import Foundation
 import SwiftUI
 import Swift
 
-    func Card1 (Flipped:Bool) {
-        if Flipped == true {
-            
-        }
-        else{
-            Image("Globe")
-        }
+func Card1 (Flipped:Bool) {
+    if Flipped == true {
+        
     }
+    else{
+        Image("hwxtm6n79ma61")
+    }
+}
 
 func Card2 (Flipped2:Bool) {
     if Flipped2 == true {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card3 (Flipped3:Bool) {
@@ -29,7 +29,7 @@ func Card3 (Flipped3:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card4 (Flipped4:Bool) {
@@ -37,7 +37,7 @@ func Card4 (Flipped4:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card5 (Flipped5:Bool) {
@@ -45,7 +45,7 @@ func Card5 (Flipped5:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card6 (Flipped6:Bool) {
@@ -53,7 +53,7 @@ func Card6 (Flipped6:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card7 (Flipped7:Bool) {
@@ -61,7 +61,7 @@ func Card7 (Flipped7:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card8 (Flipped8:Bool) {
@@ -69,7 +69,7 @@ func Card8 (Flipped8:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card9 (Flipped9:Bool) {
@@ -77,7 +77,7 @@ func Card9 (Flipped9:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card10 (Flipped10:Bool) {
@@ -85,7 +85,7 @@ func Card10 (Flipped10:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card11 (Flipped11:Bool) {
@@ -93,7 +93,7 @@ func Card11 (Flipped11:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card12 (Flipped12:Bool) {
@@ -101,7 +101,7 @@ func Card12 (Flipped12:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card13 (Flipped13:Bool) {
@@ -109,7 +109,7 @@ func Card13 (Flipped13:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card14 (Flipped14:Bool) {
@@ -117,7 +117,7 @@ func Card14 (Flipped14:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card15 (Flipped15:Bool) {
@@ -125,7 +125,7 @@ func Card15 (Flipped15:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card16 (Flipped16:Bool) {
@@ -133,7 +133,7 @@ func Card16 (Flipped16:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card17 (Flipped17:Bool) {
@@ -141,7 +141,7 @@ func Card17 (Flipped17:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card18 (Flipped18:Bool) {
@@ -149,7 +149,7 @@ func Card18 (Flipped18:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card19 (Flipped19:Bool) {
@@ -157,7 +157,7 @@ func Card19 (Flipped19:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
 func Card20 (Flipped20:Bool) {
@@ -165,6 +165,6 @@ func Card20 (Flipped20:Bool) {
         
     }
     else{
-        Image("Globe")
+        Image("hwxtm6n79ma61")
     }
 }
